@@ -1,0 +1,21 @@
+/* 
+
+Style 
+Created by Rodrigo Bustamante
+rod.bustamante.a@gmail.com
+
+*/
+
+body {
+	padding-top: 40px;
+	background: url(../img/3.png);
+	font-family: Verdana, Arial, sans-serif;
+}
+h1{color: #2891C1;}
+a:hover{text-decoration: none;}
+.page-header{background-color: #FBFBFB;}
+.img-circle{border-radius: 50%;height: 220px;width: 220px;margin-top: 20%; border: 5px solid #DDD;}
+.info-cont {padding: 10px 10px;margin-bottom: 30px;}
+.subtitle{text-decoration: underline;}
+.data-rrss{padding-top: 25px;padding-bottom: 10px;}
+.data-intro{padding-top: 15px;}
