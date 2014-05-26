@@ -3779,7 +3779,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-top: 4px;
 }
 @media (min-width: 768px) {
-  .navbar-toggle,#sidebar {
+  .navbar-toggle {
     display: none;
   }
 
@@ -3793,6 +3793,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 20px;
 }
 @media (max-width: 767px) {
+  
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
