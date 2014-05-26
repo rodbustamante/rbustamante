@@ -1583,6 +1583,7 @@ table th[class*="col-"] {
   background-color: #ebcccc;
 }
 @media (max-width: 767px) {
+  #sidebar {display: none;}
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
