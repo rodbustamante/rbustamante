@@ -3782,6 +3782,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-toggle {
     display: none;
   }
+
 }
 .navbar-nav {
   margin: 7.5px -15px;
@@ -3792,6 +3793,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 20px;
 }
 @media (max-width: 767px) {
+  
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
