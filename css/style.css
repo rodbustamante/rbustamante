@@ -23,17 +23,12 @@ a:hover{text-decoration: none;}
 .section > .data-row > .col2 {width: 50%;float: left;padding-left: 1%}
 .section > .data-row > .list-content {width: 100%;padding:15px 15px;float: left;border-bottom: 1px dotted #DDD;margin-bottom: 20px;}
 .list-content > a > .port-site {background-color:#DDD;width: 316px;height: 181px;float: left;margin-right: 5px;margin-left: 5px;border: 3px #DDD solid;margin: 10px 35px;}
-.list-content > a > .port-site:hover, .list-content > a > .port-site > img:hover{ opacity:0.5;background: #6B6B6B;
--webkit-transition: all ease .5s;
--moz-transition: all ease .5s;
-transition: all ease .5s; }
+.list-content > a > .port-site:hover, .list-content > a > .port-site > img:hover{ opacity:0.5;background: #6B6B6B;-webkit-transition: all ease .5s;-moz-transition: all ease .5s;transition: all ease .5s; }
 .where {text-transform: uppercase;color: #000}
 .menu-button{text-transform: uppercase;text-align: center;}
 .menu-button > a{color: #FFF;}
-.nav > li > a:hover, .nav > li > a:focus {
-text-decoration: none;
-background-color: #DDD;
-}
+.nav > li > a:hover, .nav > li > a:focus {text-decoration: none;background-color: #DDD;}
+.affix-top{margin-top: 30px;}
 
 .sky{background-color: #4CA5D0;}
 .green{background-color: #428400;}
