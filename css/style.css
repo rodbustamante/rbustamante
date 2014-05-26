@@ -6,16 +6,40 @@ rod.bustamante.a@gmail.com
 
 */
 
-body {
-	padding-top: 40px;
-	background: url(../img/3.png);
-	font-family: Verdana, Arial, sans-serif;
-}
-h1{color: #2891C1;}
+body {padding-top: 40px;background: url(../img/3.png);font-family: Verdana, Arial, sans-serif;color: #757575;}
+h1{color: #2891C1;text-transform: uppercase;}
 a:hover{text-decoration: none;}
-.page-header{background-color: #FBFBFB;}
 .img-circle{border-radius: 50%;height: 220px;width: 220px;margin-top: 20%; border: 5px solid #DDD;}
-.info-cont {padding: 10px 10px;margin-bottom: 30px;}
+.info-cont {padding: 10px 10px;margin-bottom: 30px;background-color: #FBFBFB;}
 .subtitle{text-decoration: underline;}
 .data-rrss{padding-top: 25px;padding-bottom: 10px;}
 .data-intro{padding-top: 15px;}
+.col-data-content {padding: 10px 10px;}
+.col-data-content > .section {padding-bottom: 60px;float: left;width: 100%;}
+.section > h2 {color: #2891C1;padding: 20px 100px;color: #FFF;text-transform: uppercase;}
+.section > .row-color {color: #2891C1;padding: 20px 100px;color: #FFF;text-transform: uppercase;}
+.section > .data-row {padding: 5px 5px;width: 100%;padding-top: 25px;}
+.section > .data-row > .col1 {width: 15%;float: left;text-align: right;color: #333;}
+.section > .data-row > .col2 {width: 50%;float: left;padding-left: 1%}
+.section > .data-row > .list-content {width: 100%;padding:15px 15px;float: left;border-bottom: 1px dotted #DDD;margin-bottom: 20px;}
+.list-content > a > .port-site {background-color:#DDD;width: 316px;height: 181px;float: left;margin-right: 5px;margin-left: 5px;border: 3px #DDD solid;margin: 10px 35px;}
+.list-content > a > .port-site:hover, .list-content > a > .port-site > img:hover{ opacity:0.5;background: #6B6B6B;
+-webkit-transition: all ease .5s;
+-moz-transition: all ease .5s;
+transition: all ease .5s; }
+.where {text-transform: uppercase;color: #000}
+.menu-button{text-transform: uppercase;text-align: center;}
+.menu-button > a{color: #FFF;}
+.nav > li > a:hover, .nav > li > a:focus {
+text-decoration: none;
+background-color: #DDD;
+}
+
+.sky{background-color: #4CA5D0;}
+.green{background-color: #428400;}
+.yellow{background-color: #FFBC38;}
+.red{background-color: #DE1F1F;}
+.blue{background-color: #43609c;}
+.gold{background-color: #ffb414;}
+.aqua{background-color: #49C0BA;}
+.grey{background-color: #6B6B6B;}
