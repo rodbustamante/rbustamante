@@ -16,8 +16,9 @@ a:hover{text-decoration: none;}
 .data-intro{padding-top: 15px;}
 .col-data-content {padding: 10px 10px;}
 .col-data-content > .section {padding-bottom: 60px;float: left;width: 100%;}
-.section > h2 {color: #2891C1;padding: 20px 100px;color: #FFF;text-transform: uppercase;}
-.section > .row-color {color: #2891C1;padding: 20px 100px;color: #FFF;text-transform: uppercase;}
+.section > h2 {color: #2891C1;padding: 20px 50px;color: #FFF;text-transform: uppercase;}
+.section > h2 > img {padding-right: 50px}
+.section > .row-color {color: #2891C1;padding: 20px 50px;color: #FFF;text-transform: uppercase;}
 .section > .data-row {padding: 5px 5px;width: 100%;padding-top: 25px;}
 .section > .data-row > .col1 {width: 15%;float: left;text-align: right;color: #333;}
 .section > .data-row > .col2 {width: 50%;float: left;padding-left: 1%}
@@ -28,7 +29,7 @@ a:hover{text-decoration: none;}
 .menu-button{text-transform: uppercase;text-align: center;}
 .menu-button > a{color: #FFF;}
 .nav > li > a:hover, .nav > li > a:focus {text-decoration: none;background-color: #DDD;}
-.affix-top{margin-top: 30px;}
+.affix-top{position: fixed;margin-top: 30px;}
 
 .sky{background-color: #4CA5D0;}
 .green{background-color: #428400;}
