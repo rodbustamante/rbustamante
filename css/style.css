@@ -17,10 +17,10 @@ a:hover{text-decoration: none;}
 .col-data-content {padding: 10px 10px;}
 .col-data-content > .section {padding-bottom: 60px;float: left;width: 100%;}
 .section > h2 {color: #2891C1;padding: 20px 50px;color: #FFF;text-transform: uppercase;}
-.section > h2 > img {padding-right: 50px}
+.section > h2 > i {padding-right: 40px}
 .section > .row-color {color: #2891C1;padding: 20px 50px;color: #FFF;text-transform: uppercase;}
 .section > .data-row {padding: 5px 5px;width: 100%;padding-top: 25px;}
-.section > .data-row > .col1 {width: 15%;float: left;text-align: right;color: #333;}
+.section > .data-row > .col1 {width: 20%;float: left;text-align: right;color: #333;}
 .section > .data-row > .col2 {width: 50%;float: left;padding-left: 1%}
 .section > .data-row > .list-content {width: 100%;padding:15px 15px;float: left;border-bottom: 2px solid #DDD;margin-bottom: 20px;}
 .list-content > a > .port-site {background-color:#DDD;width: 316px;height: 181px;float: left;margin-right: 5px;margin-left: 5px;border: 3px #DDD solid;margin: 10px 35px;}
